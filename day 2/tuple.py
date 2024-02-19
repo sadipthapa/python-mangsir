@@ -1,0 +1,11 @@
+fruits=[
+    'apple',
+    'orange',
+    'kivi',
+    'banana',
+]
+#type....
+#print(fruits[0])
+print(fruits)
+fruits[0]='pineapple'
+print(fruits)
